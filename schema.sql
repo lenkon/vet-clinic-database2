@@ -1,10 +1,10 @@
 /* Database schema to keep the structure of entire database. */
 
-/* Create database vet_clinic; */
+/* Project1 - Create database vet_clinic; */
 CREATE DATABASE vet_clinic;
 
 
-/* Create table animals */
+/* Project1 - Create table animals */
 CREATE TABLE animals(
   id int GENERATED ALWAYS AS IDENTITY,
   name varchar(80),
@@ -14,3 +14,5 @@ CREATE TABLE animals(
   weight_kg decimal
 );
 
+/* Project 2 - Add species column to animals table */
+ALTER TABLE animals ADD COLUMN species VARCHAR(80);
