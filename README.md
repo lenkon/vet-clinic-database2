@@ -16,7 +16,6 @@
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
   - [Usage](#usage)  
   - [Test](#test)  
 - [👥 Authors](#authors)
@@ -83,13 +82,6 @@ Clone this repository to your desired folder:
   $ git clone https://github.com/lenkon/vet-clinic-database2
 
   $ cd vet-clinic-database2
-```
-### Install
-
-Install all project dependencies by running the command below:
-
-``` 
-  $ 
 ```
 ### Usage
 
