@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Vet clinic database: query multiple tables</b></h3>
+  <h3><b>Vet clinic database: add join table for visits</b></h3>
 
 </div>
 
@@ -25,11 +25,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Vet clinic database: query multiple tables] <a name="about-project"></a>
+# 📖 [Vet clinic database: add join table for visits] <a name="about-project"></a>
 
 > Use a relational database to create the data structure for a vet clinic.
 
-**[Vet clinic database: query multiple tables]** is...
+**[Vet clinic database: add join table for visits]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,6 +53,7 @@
 - **[Insert data into table]**
 - **[Update table]**
 - **[Query multiple tables]**
+- **[Create join tables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
